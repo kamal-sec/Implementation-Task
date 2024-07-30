@@ -11,8 +11,11 @@ This project is a Single Page Application (SPA) built with React that displays i
 
 1. **Clone the repository:**
     ```bash
-    git clone <your-repo-url>
-    cd hogwarts-react-app
+    git clone https://github.com/kamal-sec/Implementation-Task.git
+
+cd task 
+example:    
+    cd /Users/abdelrahman/Desktop/Yomicepa-Task/task
     ```
 2. **Install dependencies:**
     ```bash
