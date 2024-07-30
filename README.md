@@ -86,3 +86,4 @@ The application will be available at `http://localhost:3000`.
 
 - The Harry Potter API used for fetching data.("https://potterapi-fedeperin.vercel.app/en")
 - React, Tailwind CSS, and Chakra UI documentation and community for support.
+- react-router-dom
